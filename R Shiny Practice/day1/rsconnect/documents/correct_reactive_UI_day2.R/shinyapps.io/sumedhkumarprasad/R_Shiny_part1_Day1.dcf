@@ -1,0 +1,13 @@
+name: R_Shiny_part1_Day1
+title: R_Shiny_part1_Day1
+username:
+account: sumedhkumarprasad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 346870
+bundleId: 1386184
+url: https://sumedhkumarprasad.shinyapps.io/R_Shiny_part1_Day1/
+when: 1526967666.2979
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: addition_of_two_number_assignment1.R|assignment1.R|convertfeetintoinchesassignment2.R|part2withdplyr.R|radiobutton.R|reactivepart.R|shinyhistogram.R|Sumedh Kumar Prasad Lab1 Rshiny 21May.docx|uiinteractiveday2.R|Uipart2day2.R
